@@ -1,0 +1,29 @@
+img.img-thumbnail {
+    width: 80%;
+    height: 80%;
+    border: solid;
+    
+  }
+
+#name{
+  font-family: 'Times New Roman', Times, serif;
+  color: aqua;
+  height: 100px;
+  font-size: xx-large;
+  font: center;
+  display: flex;
+  text-align: center;
+}
+
+#buscador{
+  height: 100px;
+  width: 100px;
+  padding-left: 100px;
+}
+
+#boton{
+  height: 50px;
+  width: 100px;
+}
+
+  
